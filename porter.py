@@ -24,8 +24,9 @@ __docformat__ = 'plaintext'
 
 import re
 
-from nltk.stem.api import StemmerI
-from nltk.compat import python_2_unicode_compatible
+
+from api import StemmerI
+from compat import python_2_unicode_compatible
 
 
 @python_2_unicode_compatible
