@@ -10,7 +10,7 @@ Run example.py
 
 
 ```bash
-python example.py
+python nltk_stemming_lite/example.py
 ```
 
 You should see the following output:
