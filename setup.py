@@ -8,7 +8,7 @@ setup(
     author='Tomi Novak',
     author_email='tomi@bimble.com',
     license='MIT',
-    packages=['ntlk-stemming-lite'],
+    packages=['ntlk_stemming_lite'],
     include_package_data=False,
     zip_safe=False
 )
